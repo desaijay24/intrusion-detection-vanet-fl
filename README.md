@@ -117,7 +117,15 @@ intrusion-detection-vanet-fl/
 │   └── UNSW-NB15 Training and Testing Set.zip
 │
 ├── images/
-│   ├── architecture.png
+│   ├── ROC_curve.png
 │   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── results.png
+│   ├── false_negative.png
+│   ├── false_positive.png
+│   ├── fl_implementation_flowchart.png
+│   ├── iid_accuracy.png
+│   ├── ips_action.png
+│   ├── ips_effectiveness.png
+│   ├── non_iid_accuracy.png
+│   ├── precision_recall_curve.png
+│   └── prediction_distribution_ids.png
+
